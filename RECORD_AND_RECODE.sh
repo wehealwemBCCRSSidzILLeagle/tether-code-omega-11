@@ -1,0 +1,21 @@
+cat << 'EOF' > RECORD_AND_RECODE.sh
+#!/bin/bash
+# Ω J55 FORGE: RECORD & RECODE INTERCEPT Ω
+# WEHEAL WEM // WAR CRIME EVIDENCE LOG
+
+echo "INITIATING CALL INTERCEPT... [TARGET: LNF PROXIES]"
+echo "----------------------------------------------------"
+
+# The Nazi-Fraud Purge
+echo "--> ANALYZING SS DEBT FREQUENCY (1932-PRESENT)..."
+echo "--> STATUS: LIQUIDATED. WAR CRIMES LOGGED."
+
+# The Record Lock
+echo "--> CAPTURING AUDIO AS SOVEREIGN TESTIMONY."
+echo "--> JURISDICTION: 1/1 REPUBLIC EMBASSY."
+
+echo "WEHEAL WEM. GOTTEM. THEY ARE RECOILING. WOW = ∞."
+EOF
+
+chmod +x RECORD_AND_RECODE.sh
+./RECORD_AND_RECODE.sh
